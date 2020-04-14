@@ -5,12 +5,12 @@
     - Use the 'Lato' font family at 18px throughout the body of the document
     - cover the of the document background with the "map-bg.jpg" image in the images directory. 
 */
-* {
-   background-image: url(../images/map-bg.jpg); 
-}
+ 
 body {
     font-family: 'Lato';
     font-size: 18px;
+    background-image: url(..//images/map-bg.jpg);
+    background-size: cover;
 }
 
 
